@@ -1,4 +1,4 @@
-# Lambda-man : Projet de programmation fonctionnelle 2019
+# Lambda-man : Projet de programmation fonctionnelle 2019.
 
 ## Tâches effectuées : 
 - Tâche 1 : λman s’entraine dans le désert
